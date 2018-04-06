@@ -23,12 +23,13 @@ import Icon from 'react-native-vector-icons/FontAwesome';
 class ContactUs extends Component {
     render(){
         return(
+            <ScrollView>
             <View style={ContactUsStyle.mainContainer}>
             <View style={ContactUsStyle.imageContainer}>
                 <Image source={ImagePath.LOGO_SMALL}  />
             </View>
             <View style={ContactUsStyle.headingContainer}>
-                <Text style={{textAlign:'center',margin:40,color:Colors.DARK_BLUE,fontWeight:'800'}}>{Strings.CONTACT_US_HEADING}</Text>
+                <Text style={{textAlign:'center',margin:10,color:Colors.DARK_BLUE,fontWeight:'800'}}>{Strings.CONTACT_US_HEADING}</Text>
             </View>
           <View style={{marginLeft:20}}>
             <View style={ContactUsStyle.searchSection}>
@@ -90,6 +91,7 @@ class ContactUs extends Component {
              </View>          
 
             </View>
+            </ScrollView>
         );
     }
 }

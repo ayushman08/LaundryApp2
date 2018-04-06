@@ -20,12 +20,12 @@ import {
         alignItems:'center',
         textAlign:'center',
         justifyContent:'center',
-        marginTop:50
+        marginTop:20
     },
     searchSection:{
         flexDirection: 'row',
         alignItems:'center',
-        margin: Platform.OS  === "ios" ? 20 : 5,
+        margin: Platform.OS  === "ios" ? 18 : 5,
     },
     input:{
         flex:1,

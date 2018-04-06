@@ -12,7 +12,7 @@ import default_user from '../Assets/default_user.png';
 
 import user_active_bottom_tab from '../Assets/user_active.png';
 import user_default_bottom_tab from '../Assets/user_default.png';
-
+import services_icon from '../Assets/services_icon.png';
 
 const IMAGEPATH = {
  
@@ -27,6 +27,8 @@ const IMAGEPATH = {
 
     USER_ACTIVE_BOTTOM_TAB: user_active_bottom_tab,
     USER_DEFAULT_BOTTOM_TAB: user_default_bottom_tab,
+
+    SERVICES_ICON:services_icon,
 
     DASHBOARD_BANNER:banner
 

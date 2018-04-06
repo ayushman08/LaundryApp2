@@ -1,0 +1,4 @@
+#Wed Apr 04 16:23:00 IST 2018
+base.0=/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/dexMerger/debug/95
+path.0=classes.dex
+renamed.0=classes.dex

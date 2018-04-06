@@ -149,9 +149,10 @@ class DashboardComponent extends Component {
     }
     
     onLogout() {
-        //console.log('userdata:', this.state.userInfo);
+
+		//console.log('userdata:', this.state.userInfo);
 		if (this.state.userInfo.data) {
-			//console.log('userdata:', this.state.use rInfo.data + ' ' + this.state.userInfo.data.user_id);
+			//console.log('userdata:', this.state.userInfo.data + ' ' + this.state.userInfo.data.user_id);
 			logoutPostData = {
 				token: this.state.userInfo.data.token
 			};
@@ -212,7 +213,7 @@ class DashboardComponent extends Component {
                 <View style={DashboardStyle.drawerItemViewContainer}>
                     <TouchableOpacity onPress={() => null}>
                                         <View style={DashboardStyle.drawerMenuItemViewStyle}>
-                                        <IconFont2 name="user" color={Colors.DARK_BLUE} size={18}/>
+                                        <IconFont2 name="user" color={Colors.DARK_BLUE} size={20}/>
                                             <View style={DashboardStyle.drawerItemTextViewStyle}>
                                                 <Text style={DashboardStyle.drawerItemText}>{Strings.MY_PROFILE}</Text>
                                             </View>
@@ -220,7 +221,7 @@ class DashboardComponent extends Component {
                     </TouchableOpacity>
                     <TouchableOpacity onPress={() =>this.changeTodashboard()}>
                                         <View style={DashboardStyle.drawerMenuItemViewStyle}>
-                                        <IconFont2 name="tachometer" color={Colors.DARK_BLUE} size={18}/>
+                                        <Image source={ImagePath.SERVICES_ICON} />
                                             <View style={DashboardStyle.drawerItemTextViewStyle}>
                                                 <Text style={DashboardStyle.drawerItemText}>{Strings.DASHBOARD}</Text>
                                             </View>
@@ -228,7 +229,7 @@ class DashboardComponent extends Component {
                     </TouchableOpacity>
                     <TouchableOpacity onPress={() => null}>
                                         <View style={DashboardStyle.drawerMenuItemViewStyle}>
-                                        <IconFont name="book-multiple" color={Colors.DARK_BLUE} size={18}/>
+                                        <IconFont name="book-multiple" color={Colors.DARK_BLUE} size={20}/>
                                             <View style={DashboardStyle.drawerItemTextViewStyle}>
                                                 <Text style={DashboardStyle.drawerItemText}>{Strings.ORDER_LISTING}</Text>
                                             </View>
@@ -238,7 +239,7 @@ class DashboardComponent extends Component {
                     <TouchableOpacity onPress={() => this.changeTohowItworks()}>
                                         <View style={DashboardStyle.drawerMenuItemViewStyle}>
                                       
-                                        <IconFont name="view-grid" color={Colors.DARK_BLUE}size={18}/>
+                                        <IconFont name="view-grid" color={Colors.DARK_BLUE}size={20}/>
                                             <View style={DashboardStyle.drawerItemTextViewStyle}>
                                                 <Text style={DashboardStyle.drawerItemText}>{Strings.HOW_IT_WORKS}</Text>
                                             </View>
@@ -247,7 +248,7 @@ class DashboardComponent extends Component {
                     <TouchableOpacity onPress={() => this.changeToContactUsScreen()}>
                                         <View style={DashboardStyle.drawerMenuItemViewStyle}>
                                       
-                                        <IconFont2 name="envelope" color={Colors.DARK_BLUE}size={18}/>
+                                        <IconFont2 name="envelope" color={Colors.DARK_BLUE}size={20}/>
                                             <View style={DashboardStyle.drawerItemTextViewStyle}>
                                                 <Text style={DashboardStyle.drawerItemText}>{Strings.CONTACT_US}</Text>
                                             </View>
@@ -256,7 +257,7 @@ class DashboardComponent extends Component {
                     <TouchableOpacity onPress={() => null}>
                                         <View style={DashboardStyle.drawerMenuItemViewStyle}>
                                       
-                                        <IconFont name="information" color={Colors.DARK_BLUE}size={22}/>
+                                        <IconFont name="information" color={Colors.DARK_BLUE}size={20}/>
                                             <View style={DashboardStyle.drawerItemTextViewStyle}>
                                                 <Text style={DashboardStyle.drawerItemText}>{Strings.ABOUT_US}</Text>
                                             </View>
@@ -265,7 +266,7 @@ class DashboardComponent extends Component {
                     <TouchableOpacity onPress={() =>this.confirmUserLogout()}>
                                         <View style={DashboardStyle.drawerMenuItemViewStyle}>
                                        
-                                        <IconFont name="logout" color={Colors.DARK_BLUE}size={18}/>
+                                        <IconFont name="logout" color={Colors.DARK_BLUE}size={20}/>
                                             <View style={DashboardStyle.drawerItemTextViewStyle}>
                                                 <Text style={DashboardStyle.drawerItemText}>{Strings.LOGOUT}</Text>
                                             </View>

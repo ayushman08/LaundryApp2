@@ -17,7 +17,7 @@ export default (state = INITIAL_STATE, action) => {
 			return { ...state, productCategoryList: action.payload,isScreenLoading:false }
 
 		case ACTION_TYPES.GET_PRODUCT_LIST:
-			//    console.log("product category list",action.payload);
+			    console.log("product category list 1",action.payload);
 		return { ...state, productCategoryNewList: action.payload,isScreenLoading:false }
 
 		case ACTION_TYPES.LOGIN_USER_RES_CLEAR:

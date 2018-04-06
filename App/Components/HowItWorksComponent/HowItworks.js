@@ -13,7 +13,8 @@ export default class HowItWorks extends Component {
         return (
             <View style={{flex:1,backgroundColor:Colors.HOME_BG}}>
                 <IndicatorViewPager
-                style={{height:window.height-100}}
+
+                 style={{height:window.height-100}}
                     indicator={this._renderDotIndicator()}
                 >
                     <View style={{backgroundColor:Colors.WHITE,justifyContent:'center',alignItems:'center'}}>

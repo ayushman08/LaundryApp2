@@ -68,6 +68,9 @@ class SignInScreen extends Component {
     _toggleModal = () =>
     this.setState({ isModalVisible: !this.state.isModalVisible });
 
+    _passwordVisibility = () =>
+    this.setState({ isPasswordVisible: !this.state.isPasswordVisible });
+
     componentDidMount(){
         this._setupGoogleSignin();
        
@@ -281,7 +284,12 @@ forgotPasswordDialog(){
                     onSubmitEditing={(event) => this.signIn(event)}
                     value={this.props.signInReducer.password}
                   />
+                  <TouchableOpacity onPress={() => this._passwordVisibility()} >
+                  {this.state.isPasswordVisible ?  <Icon name="eye" size={20} color={Colors.THEME_COLOR}/> : <Icon name="eye-slash" size={20} color={Colors.THEME_COLOR}/>}
+                 
+                   </TouchableOpacity>
                 </View>
+               
                         
             </View>
             <TouchableOpacity onPress={() => this._toggleModal()} style={SignInStyle.forgotPasswordContainer}>

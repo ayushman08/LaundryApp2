@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/node_modules/react-native-vector-icons/android/build/intermediates/intermediate-jars/release/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/af117f1b189caea4658a4b8c3d7ca202/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/ff622e6b6b9e6581e13ee7c71553eac5/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-core-4.31.0.aar/1c3676dd72d2d86d9ae079175160c6e3/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="49d6e981cef2eb91ff98aa6004fadb3bd757790d">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9a94751ecab93334d945b4e3b76dc618/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/c15d0515e25cb17b41d797786dfa1a68/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-12.0.1.aar/092b27f8f99fe5c1f0325dee2dff80b9/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="63762d99e25ebfd92f60558dcef8aef334cc6dd3">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/f97e37518aa76e98026038d2feaadbd8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.2/b9ef4342c934a1a8b107506273dc8061662a322/support-annotations-27.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/d5c58d66228de2f3bc5a8092c5e20d78/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cdebcd9e0580b35115f655f8dc8ed7a66a8ef0fc">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/0fed8b3b3467f45557063753f26b5e7e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="22569eca3029ab00583c332a2be220cdbf091b35">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/8c3ca4d4ea143345796ec4b1cdb45dd3/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/29a1a6c337276f45844624f22bb903c4/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/00483012f5d3c993069126e1e4cb9a37/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/391ab1e08f7216a848e56bc3931d483a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a38a8974c8d066800237d22a86df2e88cb9e065c">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/node_modules/react-native-google-signin/android/build/intermediates/intermediate-jars/release/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b717c2decdcab90411cd6aee7a001044eb424401">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/f3e47a3be5374cef737b3710497da259/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5824717818f7ac8bd17b200b1b182c0313740c60">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/e324d19c6a7165aa552cc0517c86fed0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-common-4.31.0.aar/b1dc33069dadc59429cc5ba7431bc051/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e3b8ecc558c6deeb90eb3934c1c715128ab26dcd">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/f9063ce1afd5fd7ddfb65086a6cabb14/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="25c8cb628374f9a2d59ff9e1172753751e9a9f84">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.31.0.aar/342878b074f2bd2bacdd3fd4dd1f4885/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="82ea5a937ab84229fbd2f3fc8cf2a72cbdf0ee0f">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-places-4.31.0.aar/6e5c34f3cc7edfe595e60d6a516c7279/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="821200fa3e07f93d0ae66e4a5917db8bac69dfe1">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.3.0/73c49077166faa4c3c0059c5f583d1d7bd1475fe/core-3.3.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/dbe301c28ef561dbfb8bf345dc3f83d5/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-12.0.1.aar/3813fcfee5802a1a0c28ce60b6647fc5/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ba42e6949397668e88ea3d2b188078ddf0143813">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/510c0f16b6b7a04f36dc4222de17ca9f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/4a0decf6fb5127aeadf416d3ca172a7c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/a43609b388b48426341db985a3ad0e57/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/react-native-0.54.0.aar/05ccafa847e5e00ff994579dee1aba9d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9bc5c658348a96fc5110ac2a8785920bb9417c07">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/cbb99158bee7892be62e0c29601d3e49/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.31.0.aar/8817340e0bdc6da067b0cb6dfcef699b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b1c250352bb7bbd5ea1982ca5165f2a81f36b530">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/react-native-0.54.0.aar/05ccafa847e5e00ff994579dee1aba9d/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.3/7d7f60c4783872861222166f6164215f8951c7b1/common-1.0.3.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/6aa1b511cbc1bf7149f43a6111586648/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bcd0bcdef85b31a656af76e39c0c95ce70800772">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/f647c52ce2b3cc2b825e2b6f9b29267e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="14bfdbf5594d4d7c320de20831849050788ab1e3">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.31.0.aar/9e703c931b300264947996f6a94fda6f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2482bfd874e8b3927f4141105674ad392ff83698">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/node_modules/react-native-fbsdk/android/build/intermediates/intermediate-jars/release/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f90c7e695e3c486f8a900c0e97eeeaa99a7e2d55">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/0358a08e74467c5d332f4e88caf35a03/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/4b46cb66065dc6bd9f314843a4a24ab6/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed8395f343c428cd55c60499f04323083f4ef0db">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-login-4.31.0.aar/34165964217a9e5477900cdde30a5ed1/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b8b26b28aae0ba8e2db55ad9fe0ebc770530c5ef">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-share-4.31.0.aar/8a143112b8d0c2e026b5e92e728a06cf/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="95d97996ec624fca99f6b06ad6004c749259970d">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/f5a99eaf3dcc3a481a64d6427d68d41e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/node_modules/react-native-linear-gradient/android/build/intermediates/intermediate-jars/release/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="10bce3308649051968a5a024ca15a2193838eed4">
+        <dex dex="/Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/build/intermediates/transforms/preDex/release/57.jar" />
+    </item>
+
+</items>

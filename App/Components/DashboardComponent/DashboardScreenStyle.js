@@ -168,7 +168,7 @@ export default StyleSheet.create({
   headerTitle:{
     flex: 1, 
     textAlign: 'center',
-    fontSize:20,
+    fontSize:16,
     color:'white',
     fontWeight:'600'
   },

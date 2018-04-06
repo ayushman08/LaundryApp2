@@ -131,7 +131,8 @@ signUp(){
     else {
 
         signUpPostData = {
- email_address: this.props.signUpReducer.email,
+
+            email_address: this.props.signUpReducer.email,
             password: this.props.signUpReducer.password,
             username: this.props.signUpReducer.firstName,
             phone_number: this.props.signUpReducer.phoneNumber
@@ -143,7 +144,7 @@ signUp(){
     }
 }
 
- componentDidUpdate(){
+componentDidUpdate(){
     this.onSignUpSuccess();
     this.onLoginSuccess();
 }

@@ -61,6 +61,7 @@ class ProductListItem extends Component {
     }
 }
 
+//..........................
 class ProductDetail  extends Component{
  constructor(){
         super()
@@ -75,21 +76,19 @@ class ProductDetail  extends Component{
     }
 
     componentWillMount(){
-        
-         if (this.props.homeReducer.productCategoryList != '') {
+        if (this.props.homeReducer.productCategoryList != '') {
             this.setState({ productList: this.props.homeReducer.productCategoryList });
          }else {
             alert("Cannot retrieve product list");
         }
-      
-        this.getProductVariations(1);
+       this.getProductVariations(1);
 
     }
 
-    //
+
     getProductVariations(index){
         
-     console.log("Product recieveed list>>."+JSON.stringify(this.props.homeReducer.productCategoryList));
+          console.log("Product recieveed list>>."+JSON.stringify(this.props.homeReducer.productCategoryList));
         postData = {
             productId: this.props.homeReducer.productCategoryList[index].id,
         };
@@ -97,10 +96,10 @@ class ProductDetail  extends Component{
         this.props.getProductDetails(postData);
     }
 
-    //Component update
+   
     componentWillUpdate(){
         this.onProductVariation();
-    }
+     }
 
     onProductVariation(){
         if (this.props.productDetailReducer.productVariation != '') {
@@ -109,7 +108,8 @@ class ProductDetail  extends Component{
     }
 
 
- handleSelectedServiceSize(serviceSize){
+
+   handleSelectedServiceSize(serviceSize){
         if(serviceSize==="Small"){
             this.setState({selectedServiceSize:"Small"})
            //alert("small")
@@ -127,8 +127,7 @@ class ProductDetail  extends Component{
     }
   
   render(){
- 
-     productDetail = this.props.homeReducer.productCategoryList[this.state.selectedListIndex];
+    productDetail = this.props.homeReducer.productCategoryList[this.state.selectedListIndex];
 
      {console.log("Product new list>>"+this.state.productList)}
     return(
@@ -150,15 +149,17 @@ class ProductDetail  extends Component{
                                     color="white"
                                     size={28}
  />
-            </TouchableWithoutFeedback>
+</TouchableWithoutFeedback>
    </View>
+       
         {
             (this.state.selectedListIndex==0) ? (
             <View style={{backgroundColor:"white",justifyContent:"center",alignItems:"center",paddingLeft:10,paddingRight:10}}>
-            <Text style={{fontSize:20,marginLeft:20,marginRight:20,marginTop:20}}>{productDetail.name}</Text>
-            <HTML html={productDetail.short_description} imagesMaxWidth={Dimensions.get('window').width} />
+            <Text style={{fontSize:30,marginLeft:20,marginRight:20,marginTop:20}}>{productDetail.name}</Text>
+           <View style={{flexDirection:"row"}}></View> <HTML html={productDetail.short_description} imagesMaxWidth={200} />
            </View>
-            ) : (
+            ) : 
+            (
                 (this.state.selectedListIndex==1) ? (
                     <View style={{backgroundColor:"white",justifyContent:"center",alignItems:"center",paddingLeft:20,paddingRight:20}}>
                     <Text style={{marginTop:20}}>{productDetail.name}</Text>
@@ -228,8 +229,8 @@ class ProductDetail  extends Component{
         <View>
             
         <FlatList 
-         horizontal
-         ItemSeparatorComponent={() => <View style={{width: 5}} />}
+          horizontal
+          ItemSeparatorComponent={() => <View style={{width: 5}} />}
                 ref={"flatList"}
                 data={this.state.productList}
                 renderItem={({item, index})=>{

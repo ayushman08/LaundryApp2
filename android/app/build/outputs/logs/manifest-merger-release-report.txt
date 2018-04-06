@@ -1,0 +1,334 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml:2:1-50:12
+MERGED from [:react-native-vector-icons] /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-linear-gradient] /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/node_modules/react-native-linear-gradient/android/build/intermediates/manifests/full/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-google-signin] /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/node_modules/react-native-google-signin/android/build/intermediates/manifests/full/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-fbsdk] /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/node_modules/react-native-fbsdk/android/build/intermediates/manifests/full/release/AndroidManifest.xml:21:1-30:12
+MERGED from [com.facebook.react:react-native:0.54.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/react-native-0.54.0.aar/05ccafa847e5e00ff994579dee1aba9d/AndroidManifest.xml:2:1-15:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.31.0.aar/8817340e0bdc6da067b0cb6dfcef699b/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-login:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-login-4.31.0.aar/34165964217a9e5477900cdde30a5ed1/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-share-4.31.0.aar/8a143112b8d0c2e026b5e92e728a06cf/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-common-4.31.0.aar/b1dc33069dadc59429cc5ba7431bc051/AndroidManifest.xml:21:1-36:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9a94751ecab93334d945b4e3b76dc618/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/f3e47a3be5374cef737b3710497da259/AndroidManifest.xml:17:1-39:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/af117f1b189caea4658a4b8c3d7ca202/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/510c0f16b6b7a04f36dc4222de17ca9f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/f97e37518aa76e98026038d2feaadbd8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/4a0decf6fb5127aeadf416d3ca172a7c/AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/3130324b73cb70a4f6a268549092ab32/AndroidManifest.xml:1:1-3:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-12.0.1.aar/092b27f8f99fe5c1f0325dee2dff80b9/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-12.0.1.aar/3813fcfee5802a1a0c28ce60b6647fc5/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/4b46cb66065dc6bd9f314843a4a24ab6/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/391ab1e08f7216a848e56bc3931d483a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/0fed8b3b3467f45557063753f26b5e7e/AndroidManifest.xml:17:1-28:12
+MERGED from [com.facebook.android:facebook-places:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-places-4.31.0.aar/6e5c34f3cc7edfe595e60d6a516c7279/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-applinks:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.31.0.aar/342878b074f2bd2bacdd3fd4dd1f4885/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-messenger:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.31.0.aar/9e703c931b300264947996f6a94fda6f/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-core:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-core-4.31.0.aar/1c3676dd72d2d86d9ae079175160c6e3/AndroidManifest.xml:21:1-45:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/a43609b388b48426341db985a3ad0e57/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/0358a08e74467c5d332f4e88caf35a03/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/ff622e6b6b9e6581e13ee7c71553eac5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/29a1a6c337276f45844624f22bb903c4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/fdd18588e8320677d79f7bc6982c3941/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/6ef7eced59ff3e333e086ffe69c2fa5b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/114c735a1fd43e01d3956c61209230e5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:27.0.2] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/6aa1b511cbc1bf7149f43a6111586648/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/8a4c005d71a372fb8d22beab3c6dfc87/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/7f8318ba3de12319dd7972b4e002521f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/8c3ca4d4ea143345796ec4b1cdb45dd3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/f5a99eaf3dcc3a481a64d6427d68d41e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/f647c52ce2b3cc2b825e2b6f9b29267e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.0.2] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/d5c58d66228de2f3bc5a8092c5e20d78/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/dbe301c28ef561dbfb8bf345dc3f83d5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/e324d19c6a7165aa552cc0517c86fed0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/cbb99158bee7892be62e0c29601d3e49/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/f9063ce1afd5fd7ddfb65086a6cabb14/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/c15d0515e25cb17b41d797786dfa1a68/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/00483012f5d3c993069126e1e4cb9a37/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml:2:1-50:12
+	package
+		ADDED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml:3:5-29
+		INJECTED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml:2:1-50:12
+		INJECTED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml:2:1-50:12
+		INJECTED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml:7:5-78
+MERGED from [com.facebook.react:react-native:0.54.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/react-native-0.54.0.aar/05ccafa847e5e00ff994579dee1aba9d/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.54.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/react-native-0.54.0.aar/05ccafa847e5e00ff994579dee1aba9d/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml:7:22-75
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml:14:22-76
+application
+ADDED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml:16:5-48:19
+MERGED from [:react-native-fbsdk] /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/node_modules/react-native-fbsdk/android/build/intermediates/manifests/full/release/AndroidManifest.xml:28:5-20
+MERGED from [:react-native-fbsdk] /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/node_modules/react-native-fbsdk/android/build/intermediates/manifests/full/release/AndroidManifest.xml:28:5-20
+MERGED from [com.facebook.react:react-native:0.54.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/react-native-0.54.0.aar/05ccafa847e5e00ff994579dee1aba9d/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.54.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/react-native-0.54.0.aar/05ccafa847e5e00ff994579dee1aba9d/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.31.0.aar/8817340e0bdc6da067b0cb6dfcef699b/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.31.0.aar/8817340e0bdc6da067b0cb6dfcef699b/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-login-4.31.0.aar/34165964217a9e5477900cdde30a5ed1/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-login-4.31.0.aar/34165964217a9e5477900cdde30a5ed1/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-share-4.31.0.aar/8a143112b8d0c2e026b5e92e728a06cf/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-share-4.31.0.aar/8a143112b8d0c2e026b5e92e728a06cf/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-common-4.31.0.aar/b1dc33069dadc59429cc5ba7431bc051/AndroidManifest.xml:28:5-34:19
+MERGED from [com.facebook.android:facebook-common:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-common-4.31.0.aar/b1dc33069dadc59429cc5ba7431bc051/AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/f3e47a3be5374cef737b3710497da259/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/f3e47a3be5374cef737b3710497da259/AndroidManifest.xml:22:5-37:19
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/4a0decf6fb5127aeadf416d3ca172a7c/AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/4a0decf6fb5127aeadf416d3ca172a7c/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/3130324b73cb70a4f6a268549092ab32/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/3130324b73cb70a4f6a268549092ab32/AndroidManifest.xml:2:3-17
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/4b46cb66065dc6bd9f314843a4a24ab6/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/4b46cb66065dc6bd9f314843a4a24ab6/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/391ab1e08f7216a848e56bc3931d483a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/391ab1e08f7216a848e56bc3931d483a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/0fed8b3b3467f45557063753f26b5e7e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/0fed8b3b3467f45557063753f26b5e7e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.android:facebook-places:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-places-4.31.0.aar/6e5c34f3cc7edfe595e60d6a516c7279/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-places:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-places-4.31.0.aar/6e5c34f3cc7edfe595e60d6a516c7279/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.31.0.aar/342878b074f2bd2bacdd3fd4dd1f4885/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.31.0.aar/342878b074f2bd2bacdd3fd4dd1f4885/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.31.0.aar/9e703c931b300264947996f6a94fda6f/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.31.0.aar/9e703c931b300264947996f6a94fda6f/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-core:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-core-4.31.0.aar/1c3676dd72d2d86d9ae079175160c6e3/AndroidManifest.xml:28:5-43:19
+MERGED from [com.facebook.android:facebook-core:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-core-4.31.0.aar/1c3676dd72d2d86d9ae079175160c6e3/AndroidManifest.xml:28:5-43:19
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/fdd18588e8320677d79f7bc6982c3941/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/fdd18588e8320677d79f7bc6982c3941/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/6ef7eced59ff3e333e086ffe69c2fa5b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/6ef7eced59ff3e333e086ffe69c2fa5b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/114c735a1fd43e01d3956c61209230e5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/114c735a1fd43e01d3956c61209230e5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/8a4c005d71a372fb8d22beab3c6dfc87/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/8a4c005d71a372fb8d22beab3c6dfc87/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/7f8318ba3de12319dd7972b4e002521f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/7f8318ba3de12319dd7972b4e002521f/AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from [com.facebook.android:facebook-android-sdk:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.31.0.aar/8817340e0bdc6da067b0cb6dfcef699b/AndroidManifest.xml:28:18-44
+	android:label
+		ADDED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml:20:9-41
+	android:icon
+		ADDED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml:19:9-43
+	android:allowBackup
+		ADDED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml:18:9-36
+	android:theme
+		ADDED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml:21:9-40
+	android:name
+		ADDED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml:17:9-40
+activity#com.laundryapp.MainActivity
+ADDED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml:22:9-34:20
+	android:label
+		ADDED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml:25:13-45
+	android:windowSoftInputMode
+		ADDED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml:26:13-55
+	android:configChanges
+		ADDED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml:24:13-83
+	android:name
+		ADDED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml:23:13-41
+intent-filter#android.intent.action.DOWNLOAD_COMPLETE+android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml:27:13-33:29
+action#android.intent.action.MAIN
+ADDED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml:30:27-74
+action#android.intent.action.DOWNLOAD_COMPLETE
+ADDED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml:32:25-79
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml:35:9-86
+	android:name
+		ADDED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml:35:19-83
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml:44:9-46:55
+	android:value
+		ADDED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml:46:13-52
+	android:name
+		ADDED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml:45:13-58
+uses-sdk
+INJECTED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-vector-icons] /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/node_modules/react-native-linear-gradient/android/build/intermediates/manifests/full/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/node_modules/react-native-linear-gradient/android/build/intermediates/manifests/full/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-google-signin] /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/node_modules/react-native-google-signin/android/build/intermediates/manifests/full/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-google-signin] /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/node_modules/react-native-google-signin/android/build/intermediates/manifests/full/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fbsdk] /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/node_modules/react-native-fbsdk/android/build/intermediates/manifests/full/release/AndroidManifest.xml:24:5-26:41
+MERGED from [:react-native-fbsdk] /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/node_modules/react-native-fbsdk/android/build/intermediates/manifests/full/release/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.react:react-native:0.54.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/react-native-0.54.0.aar/05ccafa847e5e00ff994579dee1aba9d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.54.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/react-native-0.54.0.aar/05ccafa847e5e00ff994579dee1aba9d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.31.0.aar/8817340e0bdc6da067b0cb6dfcef699b/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.31.0.aar/8817340e0bdc6da067b0cb6dfcef699b/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-login-4.31.0.aar/34165964217a9e5477900cdde30a5ed1/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-login-4.31.0.aar/34165964217a9e5477900cdde30a5ed1/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-share-4.31.0.aar/8a143112b8d0c2e026b5e92e728a06cf/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-share-4.31.0.aar/8a143112b8d0c2e026b5e92e728a06cf/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-common-4.31.0.aar/b1dc33069dadc59429cc5ba7431bc051/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-common-4.31.0.aar/b1dc33069dadc59429cc5ba7431bc051/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9a94751ecab93334d945b4e3b76dc618/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9a94751ecab93334d945b4e3b76dc618/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/f3e47a3be5374cef737b3710497da259/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/f3e47a3be5374cef737b3710497da259/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/af117f1b189caea4658a4b8c3d7ca202/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/af117f1b189caea4658a4b8c3d7ca202/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/510c0f16b6b7a04f36dc4222de17ca9f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/510c0f16b6b7a04f36dc4222de17ca9f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/f97e37518aa76e98026038d2feaadbd8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/f97e37518aa76e98026038d2feaadbd8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/4a0decf6fb5127aeadf416d3ca172a7c/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/4a0decf6fb5127aeadf416d3ca172a7c/AndroidManifest.xml:2:3-70
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-12.0.1.aar/092b27f8f99fe5c1f0325dee2dff80b9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-12.0.1.aar/092b27f8f99fe5c1f0325dee2dff80b9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-12.0.1.aar/3813fcfee5802a1a0c28ce60b6647fc5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-12.0.1.aar/3813fcfee5802a1a0c28ce60b6647fc5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/4b46cb66065dc6bd9f314843a4a24ab6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/4b46cb66065dc6bd9f314843a4a24ab6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/391ab1e08f7216a848e56bc3931d483a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/391ab1e08f7216a848e56bc3931d483a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/0fed8b3b3467f45557063753f26b5e7e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/0fed8b3b3467f45557063753f26b5e7e/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-places:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-places-4.31.0.aar/6e5c34f3cc7edfe595e60d6a516c7279/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-places:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-places-4.31.0.aar/6e5c34f3cc7edfe595e60d6a516c7279/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.31.0.aar/342878b074f2bd2bacdd3fd4dd1f4885/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.31.0.aar/342878b074f2bd2bacdd3fd4dd1f4885/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.31.0.aar/9e703c931b300264947996f6a94fda6f/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.31.0.aar/9e703c931b300264947996f6a94fda6f/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-core-4.31.0.aar/1c3676dd72d2d86d9ae079175160c6e3/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-core-4.31.0.aar/1c3676dd72d2d86d9ae079175160c6e3/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/a43609b388b48426341db985a3ad0e57/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/a43609b388b48426341db985a3ad0e57/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/0358a08e74467c5d332f4e88caf35a03/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/0358a08e74467c5d332f4e88caf35a03/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/ff622e6b6b9e6581e13ee7c71553eac5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/ff622e6b6b9e6581e13ee7c71553eac5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/29a1a6c337276f45844624f22bb903c4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/29a1a6c337276f45844624f22bb903c4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/fdd18588e8320677d79f7bc6982c3941/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/fdd18588e8320677d79f7bc6982c3941/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/6ef7eced59ff3e333e086ffe69c2fa5b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/6ef7eced59ff3e333e086ffe69c2fa5b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/114c735a1fd43e01d3956c61209230e5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/114c735a1fd43e01d3956c61209230e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/6aa1b511cbc1bf7149f43a6111586648/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/6aa1b511cbc1bf7149f43a6111586648/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/8a4c005d71a372fb8d22beab3c6dfc87/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/8a4c005d71a372fb8d22beab3c6dfc87/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/7f8318ba3de12319dd7972b4e002521f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/7f8318ba3de12319dd7972b4e002521f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/8c3ca4d4ea143345796ec4b1cdb45dd3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/8c3ca4d4ea143345796ec4b1cdb45dd3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/f5a99eaf3dcc3a481a64d6427d68d41e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/f5a99eaf3dcc3a481a64d6427d68d41e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/f647c52ce2b3cc2b825e2b6f9b29267e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/f647c52ce2b3cc2b825e2b6f9b29267e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/d5c58d66228de2f3bc5a8092c5e20d78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/d5c58d66228de2f3bc5a8092c5e20d78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/dbe301c28ef561dbfb8bf345dc3f83d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/dbe301c28ef561dbfb8bf345dc3f83d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/e324d19c6a7165aa552cc0517c86fed0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/e324d19c6a7165aa552cc0517c86fed0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/cbb99158bee7892be62e0c29601d3e49/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/cbb99158bee7892be62e0c29601d3e49/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/f9063ce1afd5fd7ddfb65086a6cabb14/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/f9063ce1afd5fd7ddfb65086a6cabb14/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/c15d0515e25cb17b41d797786dfa1a68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/c15d0515e25cb17b41d797786dfa1a68/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/00483012f5d3c993069126e1e4cb9a37/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/00483012f5d3c993069126e1e4cb9a37/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-common:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-common-4.31.0.aar/b1dc33069dadc59429cc5ba7431bc051/AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-common:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-common-4.31.0.aar/b1dc33069dadc59429cc5ba7431bc051/AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-common-4.31.0.aar/b1dc33069dadc59429cc5ba7431bc051/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-common-4.31.0.aar/b1dc33069dadc59429cc5ba7431bc051/AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-common-4.31.0.aar/b1dc33069dadc59429cc5ba7431bc051/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-common-4.31.0.aar/b1dc33069dadc59429cc5ba7431bc051/AndroidManifest.xml:33:19-68
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/f3e47a3be5374cef737b3710497da259/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/f3e47a3be5374cef737b3710497da259/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/f3e47a3be5374cef737b3710497da259/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/f3e47a3be5374cef737b3710497da259/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/f3e47a3be5374cef737b3710497da259/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/f3e47a3be5374cef737b3710497da259/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/f3e47a3be5374cef737b3710497da259/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/f3e47a3be5374cef737b3710497da259/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/f3e47a3be5374cef737b3710497da259/AndroidManifest.xml:34:13-89
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml:2:1-50:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/surabhigupta/Desktop/ReactNative/LaundryApp/LaundryApp/android/app/src/main/AndroidManifest.xml:2:1-50:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/4b46cb66065dc6bd9f314843a4a24ab6/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/4b46cb66065dc6bd9f314843a4a24ab6/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/4b46cb66065dc6bd9f314843a4a24ab6/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/4b46cb66065dc6bd9f314843a4a24ab6/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/0fed8b3b3467f45557063753f26b5e7e/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/0fed8b3b3467f45557063753f26b5e7e/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/0fed8b3b3467f45557063753f26b5e7e/AndroidManifest.xml:24:13-58
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-core-4.31.0.aar/1c3676dd72d2d86d9ae079175160c6e3/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-core-4.31.0.aar/1c3676dd72d2d86d9ae079175160c6e3/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-core-4.31.0.aar/1c3676dd72d2d86d9ae079175160c6e3/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.31.0] /Users/surabhigupta/.gradle/caches/transforms-1/files-1.1/facebook-core-4.31.0.aar/1c3676dd72d2d86d9ae079175160c6e3/AndroidManifest.xml:40:13-70

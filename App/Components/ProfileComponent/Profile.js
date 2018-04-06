@@ -24,8 +24,8 @@ class Profile extends Component{
             userDetails:[]
         }
     }
-    
-  componentWillMount(){
+
+    componentWillMount(){
       //  this.props.showLoading();
         this.props.getUserDetails();
     }

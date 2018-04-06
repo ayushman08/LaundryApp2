@@ -47,7 +47,6 @@ class Home extends Component {
         }
     }
 
-    //
     componentWillMount(){
         this.props.showLoading();
         this.props.getProductCategory();
@@ -55,37 +54,25 @@ class Home extends Component {
         
     }
 
-    componentDidUpdate(){
-        this.onProductListSuccess();
+    componentWillUpdate(){
+      //  this.onProductListSuccess();
     }
-
-    
-    //
-    onProductListSuccess() {
-        if (this.props.homeReducer.productCategoryNewList != '') {
-            this.setState({ productList: this.props.homeReducer.productCategoryNewList });
-         }else {
-            alert("Cannot retrieve product list");
-        }
-        this.props.resetState();
-    }
-
   
-    
     deleteData(){
         this.setState({text: '', data: ''})
     }
+
+   
     _renderItem(item){
-       
         return (
             <TouchableHighlight underlayColor={Colors.DARK_BLUE} onPress={this.navigateTocategory.bind(this, item.id)}>
             <View style={HomeStyle.itemContainer}>
-            <Image key={item.key} style={styles.image} source={{uri: item.images[0].src} }  />
+            <Image key={item.key} style={styles.image} source={{uri: item.image} }  />
             <View style={{left:5,position:'absolute',height:45,width:45,borderRadius:45/2,justifyContent:'center',alignItems:'center', backgroundColor:Colors.ORANGE}}/>
-            <Text style={{position:'absolute',fontSize:12,left:12,color:'white'}}>2300</Text>
+            <Text style={{position:'absolute',fontSize:12,left:12,color:'white'}}>{item.price}</Text>
             <View>
             <Text style={HomeStyle.itemProductTitle}>{item.name}</Text>
-            <Text style={{alignSelf:'center',padding:5,color:Colors.FONT_COLOR}}>Up To {item.price} SEK</Text>
+            <Text style={{alignSelf:'center',padding:5,color:Colors.FONT_COLOR}}>{item.description}</Text>
             </View>
             </View>   
           
@@ -95,7 +82,8 @@ class Home extends Component {
     }
 
     navigateTocategory(item){
-        Actions.productDetail({ productId:item});
+ Actions.productDetail({ productId:item});
+       console.log(item);
     }
 
     render(){
@@ -110,7 +98,7 @@ class Home extends Component {
             <ScrollView>
                     <FlatList 
                         style={{marginHorizontal: 5}}
-                        data={this.state.productCategoryNewList}
+                        data={this.props.homeReducer.productCategoryNewList.data}
                         numColumns={2}
                         contentContainerStyle={styles.list}
                         columnWrapperStyle={{marginTop: 5}}

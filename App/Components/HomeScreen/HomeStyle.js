@@ -42,7 +42,7 @@ import {
   itemProductTitle:{
     color:Colors.FONT_COLOR_BANNER,
     fontWeight:"800",
-    fontSize:20,
+    fontSize:18,
     alignSelf:'center',
     marginTop:20
 

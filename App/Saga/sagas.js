@@ -19,7 +19,6 @@ const _apiCall = (url, data) => {
 		});
 };
 
-//woocommerce api to call 
 const _woocomerce = (url) => {
 	console.log('Api request',url);
 	return Api.get(url)
@@ -38,7 +37,6 @@ const _extJSON = (p) => {
 };
 
 
-//
 function* getProductCategory() {
 	try {
 
@@ -55,7 +53,7 @@ function* getProductCategory() {
 	}
 }
 
-//get Details
+
 function* getProductDetails(action) {
 	try {
 		var postData = action.data;
@@ -69,10 +67,9 @@ function* getProductDetails(action) {
 			payload: response
 		});
 	} catch (e) {
-		//console.log('Error: ' + e);
+		console.log('Error: ' + e);
 	}
 }
-
 
 
 function* getProductCategoryList(action) {
@@ -85,7 +82,7 @@ try {
 			
 		});
 		var responseJSON = yield call(_extJSON, response.res_json);
-		console.log('userRegistration rolse: ' + JSON.stringify(responseJSON));
+		console.log('product category list>>' + JSON.stringify(responseJSON));
 		yield put({
 			type: ACTION_TYPES.GET_PRODUCT_LIST,
 			payload: responseJSON
@@ -145,7 +142,8 @@ function* userRegistration(action) {
 	  formData.append('password', postData.password);
 	  formData.append('phone_number', postData.phone_number);
 	  formData.append('username', postData.username);
-try {
+
+	try {
 		let response = yield call(_apiCall, API.USER_REGISTRATION, {
 			method: 'POST',
 			headers: {
@@ -164,7 +162,7 @@ try {
 	}
 }
 
-  //user logout
+
 function* userLogout(action) {
 	var postData = action.data;
 	const formData = new FormData();
@@ -191,7 +189,6 @@ function* userLogout(action) {
 }
 
 
-//
 function* forgotPassword(action) {
 	var postData = action.data;
 	const formData = new FormData();
@@ -219,7 +216,8 @@ function* forgotPassword(action) {
 
 
 function* rootSaga() {
-   //Login
+
+	//Login
 	yield takeLatest(API_CONST.N_USER_LOGIN, userLogin);
 	//Registerations
 	yield takeLatest(API_CONST.N_USER_REGISTRATION, userRegistration);
